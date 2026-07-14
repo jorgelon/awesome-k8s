@@ -60,3 +60,10 @@ Stakater's open source control panel that auto-discovers and launches applicatio
 - GitHub: <https://github.com/k8svisual/vpk>
 
 Open source tool that visually presents Kubernetes resources and their relationships from offline YAML, helping understand and document cluster state.
+
+## Radar
+
+- Official: <https://radarhq.io/>
+- GitHub: <https://github.com/skyhook-io/radar>
+
+Apache 2.0 Kubernetes UI from Skyhook that visualizes cluster topology, events, Helm releases, and GitOps state in real time, with fleet-wide search and extended event retention from a single binary deployable locally or in-cluster.

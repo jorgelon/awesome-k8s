@@ -55,3 +55,10 @@ Loft Labs' virtual Kubernetes clusters that run inside a namespace of a host clu
 - GitHub: <https://github.com/aws/eks-anywhere>
 
 AWS's on-premises Kubernetes distribution based on EKS Distro, deployable on bare metal, vSphere, Nutanix, CloudStack, and Snow.
+
+## Cozystack
+
+- Official: <https://cozystack.io/>
+- GitHub: <https://github.com/cozystack/cozystack>
+
+CNCF Sandbox free PaaS platform and framework for building clouds on bare metal, provisioning tenant Kubernetes clusters, virtual machines, and managed services (databases, message queues) out of the box.
