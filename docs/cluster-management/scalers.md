@@ -31,3 +31,9 @@ Built-in Kubernetes controller that automatically scales the number of pods in a
 - GitHub: <https://github.com/kubernetes/autoscaler/tree/master/vertical-pod-autoscaler>
 
 Kubernetes SIG component that automatically sets/recommends container resource requests and limits based on historical usage.
+
+## Descheduler
+
+- GitHub: <https://github.com/kubernetes-sigs/descheduler>
+
+Kubernetes SIG project that evicts running pods according to configurable policies so the scheduler can reschedule them onto more suitable nodes, rebalancing cluster utilization over time.

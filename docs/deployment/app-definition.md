@@ -55,3 +55,9 @@ Carvel tool that manages sets of Kubernetes resources as applications, with diff
 - GitHub: <https://github.com/crossplane/crossplane>
 
 CNCF Graduated project that turns Kubernetes into a control plane for any cloud or service, exposed via Compositions and Composite Resources.
+
+## Crossview
+
+- GitHub: <https://github.com/crossplane-contrib/crossview>
+
+Crossplane community (crossplane-contrib) tool that visualizes Crossplane resources and their relationships, helping to explore Compositions and Composite Resource trees.

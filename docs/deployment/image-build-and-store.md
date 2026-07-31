@@ -20,6 +20,13 @@ Google Container Tools project that builds container images from a Dockerfile in
 
 CNCF Graduated open source registry that stores, signs, and scans container images and OCI artifacts, with replication and RBAC.
 
+## Dragonfly
+
+- Official: <https://d7y.io/>
+- GitHub: <https://github.com/dragonflyoss/dragonfly>
+
+CNCF Graduated peer-to-peer (P2P) image and file distribution system that accelerates large-scale container image pulls.
+
 ## Distroless and slim images
 
 - Distroless GitHub: <https://github.com/GoogleContainerTools/distroless>
@@ -71,10 +78,3 @@ Moby project providing an efficient, cacheable, concurrent image build engine â€
 - GitHub: <https://github.com/containers/podman>
 
 Daemonless, rootless container engine from the Containers project for running and building OCI containers and pods.
-
-## Dragonfly
-
-- Official: <https://d7y.io/>
-- GitHub: <https://github.com/dragonflyoss/dragonfly>
-
-CNCF Graduated peer-to-peer (P2P) image and file distribution system that accelerates large-scale container image pulls.
