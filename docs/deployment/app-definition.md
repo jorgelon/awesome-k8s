@@ -14,20 +14,6 @@ CNCF Incubating modern application delivery platform based on the Open Applicati
 
 CNCF Incubating Cloud Native Buildpacks transform application source code into OCI images without writing Dockerfiles.
 
-## Kube-linter (analyze YAML)
-
-- Official: <https://docs.kubelinter.io/>
-- GitHub: <https://github.com/stackrox/kube-linter>
-
-StackRox/Red Hat static analysis tool that checks Kubernetes YAML and Helm charts for production-readiness and security best practices.
-
-## Kubeconform and JSON schemas
-
-- GitHub (kubeconform): <https://github.com/yannh/kubeconform>
-- Schemas GitHub: <https://github.com/yannh/kubernetes-json-schema>
-
-Fast, configurable Kubernetes manifest validator that uses JSON schemas to validate resources against the cluster's API.
-
 ## Glasskube
 
 - Official: <https://glasskube.dev/>

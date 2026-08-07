@@ -1,12 +1,5 @@
 # Tools
 
-## kubescape
-
-- Official: <https://kubescape.io/>
-- GitHub: <https://github.com/kubescape/kubescape>
-
-CNCF Incubating Kubernetes security platform that scans clusters, manifests, and Helm charts against frameworks like NSA-CISA.
-
 ## kubeaudit
 
 - GitHub: <https://github.com/Shopify/kubeaudit>

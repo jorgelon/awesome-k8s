@@ -47,13 +47,6 @@ Native Kubernetes admission policies expressed in CEL, allowing in-process valid
 
 Fairwinds' open source tool that audits Kubernetes workloads against best practices and can act as a validating admission controller.
 
-## Datree
-
-- Official: <https://www.datree.io/>
-- GitHub: <https://github.com/datreeio/datree>
-
-Policy enforcement engine with 100+ built-in rules covering security, HA, NSA hardening, and Argo CD best practices. Note: project is no longer actively maintained.
-
 ## Paralus
 
 - Official: <https://www.paralus.io/>

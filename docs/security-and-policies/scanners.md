@@ -35,13 +35,6 @@ OWASP's open source web application security scanner (Zed Attack Proxy) for find
 
 CNCF Sandbox project that directly patches OS-level vulnerabilities in container images using Trivy/scanner reports, without rebuilding from source.
 
-## Kubescape
-
-- Official: <https://kubescape.io/>
-- GitHub: <https://github.com/kubescape/kubescape>
-
-CNCF Incubating Kubernetes security platform that scans clusters, manifests, and Helm charts against frameworks like NSA-CISA and MITRE ATT&CK.
-
 ## k8s-cleaner
 
 - GitHub: <https://github.com/gianlucam76/k8s-cleaner>
