@@ -13,6 +13,10 @@ Aqua Security tool that checks whether Kubernetes is deployed securely by runnin
 
 Fairwinds tool that uses the Vertical Pod Autoscaler in recommendation mode to identify appropriate CPU and memory requests/limits.
 
+## Kruize autotune
+
+- GitHub: <https://github.com/kruize/autotune>
+
 ## Robusta
 
 - Official: <https://home.robusta.dev/>
