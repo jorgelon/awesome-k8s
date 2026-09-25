@@ -19,7 +19,7 @@ CNCF Graduated storage orchestrator for Kubernetes that deploys and manages Ceph
 - Official: <https://longhorn.io/>
 - GitHub: <https://github.com/longhorn/longhorn>
 
-CNCF Incubating distributed block storage system for Kubernetes from SUSE/Rancher, providing replicated persistent volumes with snapshots and backups.
+CNCF Incubating distributed block storage system for Kubernetes from SUSE/Rancher. It gives replicated persistent volumes with snapshots and backups.
 
 ## CubeFS
 
@@ -31,9 +31,17 @@ CNCF Incubating cloud-native distributed file and object storage system designed
 ## MinIO
 
 - Official: <https://min.io/>
-- GitHub: <https://github.com/minio/minio>
+- GitHub (original, archived): <https://github.com/minio/minio>
+- GitHub (maintained fork): <https://github.com/chainguard-forks/minio>
 
-High-performance S3-compatible object storage, deployable on Kubernetes for AI/ML and data lake workloads.
+High-performance S3-compatible object storage, deployable on Kubernetes for AI/ML and data lake workloads. The upstream project stopped publishing free community container images in October 2025 and later went read-only. Chainguard maintains a fork under its EmeritOSS program, with a companion fork of the console at <https://github.com/chainguard-forks/minio-console>.
+
+## RustFS
+
+- Official: <https://rustfs.com/>
+- GitHub: <https://github.com/rustfs/rustfs>
+
+Apache 2.0 licensed distributed object storage system written in Rust, with S3-compatible APIs, aimed at data lakes, AI, and analytics workloads.
 
 ## Velero
 
@@ -54,7 +62,7 @@ CNCF Sandbox container-attached storage platform. Mayastor is its NVMe-based, hi
 
 - GitHub: <https://github.com/kubernetes-csi/external-snapshotter>
 
-Kubernetes CSI sidecar and controller that implement the VolumeSnapshot API, enabling CSI drivers to expose snapshot functionality.
+Kubernetes CSI sidecar and controller that implement the VolumeSnapshot API. They let CSI drivers expose snapshot functionality.
 
 ## Gemini
 

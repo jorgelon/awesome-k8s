@@ -9,9 +9,10 @@ CNCF Sandbox framework for building container images on Kubernetes, with strateg
 
 ## Kaniko
 
-- GitHub: <https://github.com/GoogleContainerTools/kaniko>
+- GitHub (original, archived): <https://github.com/GoogleContainerTools/kaniko>
+- GitHub (maintained fork): <https://github.com/chainguard-forks/kaniko>
 
-Google Container Tools project that builds container images from a Dockerfile inside a container or Kubernetes cluster without privileged access.
+Builds container images from a Dockerfile inside a container or Kubernetes cluster without privileged access. Google archived the original repository in June 2025. Chainguard forked the project and maintains it.
 
 ## Harbor
 
@@ -31,7 +32,7 @@ CNCF Graduated peer-to-peer (P2P) image and file distribution system that accele
 
 - Distroless GitHub: <https://github.com/GoogleContainerTools/distroless>
 
-"Distroless" images contain only the application and its runtime dependencies, with no shell or package manager — minimizing attack surface and size.
+"Distroless" images contain only the application and its runtime dependencies, with no shell or package manager. This reduces attack surface and size.
 
 ## Slimtoolkit
 
@@ -51,7 +52,7 @@ Fairwinds' tool for working with container image build information and metadata 
 - Official: <https://www.sigstore.dev/>
 - GitHub: <https://github.com/sigstore>
 
-OpenSSF project for signing, verifying, and providing transparency for software artifacts and container images (Cosign, Fulcio, Rekor).
+OpenSSF project that signs software artifacts and container images, makes sure that the signatures are genuine, and keeps a public transparency log (Cosign, Fulcio, Rekor).
 
 ## Saffire (Fairwinds)
 
@@ -70,7 +71,7 @@ CNCF/Containers project for building OCI container images without requiring a da
 
 - GitHub: <https://github.com/moby/buildkit>
 
-Moby project providing an efficient, cacheable, concurrent image build engine — the backend used by modern Docker builds.
+Moby project providing an efficient, cacheable, concurrent image build engine. It is the backend used by modern Docker builds.
 
 ## Podman
 
