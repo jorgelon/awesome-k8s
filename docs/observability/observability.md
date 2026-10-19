@@ -20,3 +20,10 @@ Elastic's distributed search and analytics engine, widely used as a backend for 
 - GitHub: <https://github.com/opensearch-project/OpenSearch>
 
 Linux Foundation community-driven fork of Elasticsearch and Kibana, providing search, observability, security analytics, and ML capabilities.
+
+## SigNoz
+
+- Official: <https://signoz.io/>
+- GitHub: <https://github.com/SigNoz/signoz>
+
+Open source observability platform built on OpenTelemetry, with logs, metrics, and traces in one application. It uses ClickHouse as the storage backend.

@@ -10,9 +10,10 @@ CNCF Sandbox framework for building container images on Kubernetes, with strateg
 ## Kaniko
 
 - GitHub (original, archived): <https://github.com/GoogleContainerTools/kaniko>
-- GitHub (maintained fork): <https://github.com/chainguard-forks/kaniko>
+- GitHub (Chainguard fork): <https://github.com/chainguard-forks/kaniko>
+- GitHub (community fork): <https://github.com/osscontainertools/kaniko>
 
-Builds container images from a Dockerfile inside a container or Kubernetes cluster without privileged access. Google archived the original repository in June 2025. Chainguard forked the project and maintains it.
+Builds container images from a Dockerfile inside a container or Kubernetes cluster without privileged access. Google archived the original repository in June 2025. Chainguard maintains a fork, and the osscontainertools community maintains a second fork.
 
 ## Harbor
 
